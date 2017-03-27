@@ -1,0 +1,17 @@
+# OS-specific
+.DS_Store
+
+# Vagrant stuff
+/.vagrant
+
+# phpStorm
+/public/.idea
+
+# Phing build order
+/build
+
+# Adminer
+/public/adminer-*
+
+# local settings php
+/public/sites/default/settings.local.php
